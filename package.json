@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aanndryyyy/wp-theme-gulp/issues"
   },
-  "homepage": "https://github.com/aanndryyyy/wp-theme-gulp#readme"
+  "homepage": "https://github.com/aanndryyyy/wp-theme-gulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
