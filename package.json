@@ -1,0 +1,19 @@
+{
+  "name": "wp-theme-gulp",
+  "version": "1.0.0",
+  "description": "Wordpress theme development with Gulp made faster.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aanndryyyy/wp-theme-gulp.git"
+  },
+  "author": "Andry Pedak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aanndryyyy/wp-theme-gulp/issues"
+  },
+  "homepage": "https://github.com/aanndryyyy/wp-theme-gulp#readme"
+}
